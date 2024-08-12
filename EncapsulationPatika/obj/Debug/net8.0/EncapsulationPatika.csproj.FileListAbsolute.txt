@@ -1,0 +1,14 @@
+/Users/cagdasergenc/RiderProjects/EncapsulationPatika/EncapsulationPatika/obj/Debug/net8.0/EncapsulationPatika.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cagdasergenc/RiderProjects/EncapsulationPatika/EncapsulationPatika/obj/Debug/net8.0/EncapsulationPatika.AssemblyInfoInputs.cache
+/Users/cagdasergenc/RiderProjects/EncapsulationPatika/EncapsulationPatika/obj/Debug/net8.0/EncapsulationPatika.AssemblyInfo.cs
+/Users/cagdasergenc/RiderProjects/EncapsulationPatika/EncapsulationPatika/obj/Debug/net8.0/EncapsulationPatika.csproj.CoreCompileInputs.cache
+/Users/cagdasergenc/RiderProjects/EncapsulationPatika/EncapsulationPatika/bin/Debug/net8.0/EncapsulationPatika
+/Users/cagdasergenc/RiderProjects/EncapsulationPatika/EncapsulationPatika/bin/Debug/net8.0/EncapsulationPatika.deps.json
+/Users/cagdasergenc/RiderProjects/EncapsulationPatika/EncapsulationPatika/bin/Debug/net8.0/EncapsulationPatika.runtimeconfig.json
+/Users/cagdasergenc/RiderProjects/EncapsulationPatika/EncapsulationPatika/bin/Debug/net8.0/EncapsulationPatika.dll
+/Users/cagdasergenc/RiderProjects/EncapsulationPatika/EncapsulationPatika/bin/Debug/net8.0/EncapsulationPatika.pdb
+/Users/cagdasergenc/RiderProjects/EncapsulationPatika/EncapsulationPatika/obj/Debug/net8.0/EncapsulationPatika.dll
+/Users/cagdasergenc/RiderProjects/EncapsulationPatika/EncapsulationPatika/obj/Debug/net8.0/refint/EncapsulationPatika.dll
+/Users/cagdasergenc/RiderProjects/EncapsulationPatika/EncapsulationPatika/obj/Debug/net8.0/EncapsulationPatika.pdb
+/Users/cagdasergenc/RiderProjects/EncapsulationPatika/EncapsulationPatika/obj/Debug/net8.0/EncapsulationPatika.genruntimeconfig.cache
+/Users/cagdasergenc/RiderProjects/EncapsulationPatika/EncapsulationPatika/obj/Debug/net8.0/ref/EncapsulationPatika.dll
